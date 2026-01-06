@@ -11,3 +11,11 @@ vendor/
 # IDEs
 .vscode
 .idea
+
+# Models (Large files)
+*.pt
+*.bin
+*.gguf
+models/
+python_legacy/*.pt
+python_legacy/*.pth
