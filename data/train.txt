@@ -1,0 +1,203 @@
+আমি একজন মানুষ।
+তুমি কে?
+বাংলা ভাষা সুন্দর।
+Python একটি প্রোগ্রামিং ভাষা।
+def hello(): print("Hello")
+Nexa is a Bangla and English LLM.
+Machine Learning is fun.
+আমরা কোড করতে ভালোবাসি।
+Data Science is the future.
+Dhaka is the capital of Bangladesh.
+Deep Learning with PyTorch.
+কিভাবে কাজ করে?
+Simple RNN works well.
+SentencePiece Tokenizer is great.
+Artificial Intelligence.
+শুভ সকাল।
+শুভ রাত্রি।
+How are you doing today?
+I am learning AI.
+কম্পিউটার বিজ্ঞান।
+স্বাগতম।
+Good bye.
+1 + 1 = 2
+for i in range(10): print(i)
+import torch
+print("Nexa LLM")
+This is a repeated section to ensure we have enough data for the tokenizer.
+আমি সাইবার সিকিউরিটি পছন্দ করি।
+তোমার নাম কি?
+আমার নাম নেক্সা।
+আমি বাংলাদেশ থেকে এসেছি।
+আকাশ নীল।
+পাখিরা গান গায়।
+সূর্য পূর্ব দিকে ওঠে।
+Machine Learning models require data.
+Neural Networks are inspired by the brain.
+Deep Learning is a subset of Machine Learning.
+Natural Language Processing is exciting.
+Transformer models changed everything.
+RNNs are good for sequences.
+LSTMs help with long-term dependencies.
+GRUs are simpler than LSTMs.
+Embedding layers map tokens to vectors.
+Backpropagation computes gradients.
+Optimizers update weights.
+Learning rate is a hyperparameter.
+Batch size determines how much data we see at once.
+Epochs define how many times we see the dataset.
+Overfitting is bad.
+Underfitting is also bad.
+Regularization helps prevent overfitting.
+Dropout is a common technique.
+Normalization stabilizes training.
+Activation functions introduce non-linearity.
+ReLU is very popular.
+Sigmoid squashes values between 0 and 1.
+Softmax is used for classification.
+Cross-entropy loss is common for classification tasks.
+We use PyTorch for this project.
+SentencePiece handles vocabulary well.
+It supports BPE and Unigram models.
+Bangla has many characters.
+English uses Latin script.
+Mixing languages is challenging but fun.
+Nexa will learn to predict the next token.
+We will use a small embedding size.
+Hidden size will be 128.
+We will train for 50 epochs.
+Let's see the loss decrease.
+Programming is a skill.
+Practice makes perfect.
+Never give up.
+Keep learning every day.
+Share knowledge with others.
+Open source is powerful.
+GitHub hosts our code.
+Colab gives free GPUs.
+Jupyter notebooks are interactive.
+Python is versatile.
+C++ is fast.
+Java is strictly typed.
+JavaScript runs the web.
+SQL handles databases.
+Docker containers are useful.
+Cloud computing scales applications.
+AWS, Azure, GCP are cloud providers.
+Linux is the OS of the cloud.
+Bash scripts automate tasks.
+Git tracks changes.
+Commits save history.
+Branches allow isolation.
+Merge requests strictly review code.
+CI/CD pipelines automate testing and deployment.
+Unit tests ensure code quality.
+Integration tests check components together.
+End-to-end tests verify the whole system.
+Agile methodology is popular in software dev.
+Scrum and Kanban are frameworks.
+Standup meetings keep everyone synced.
+Sprints are short iterations.
+Backlog contains tasks.
+User stories describe requirements.
+Bug reports need details.
+Feature requests improve the product.
+Documentation is crucial.
+Readme files explain the project.
+Comments in code help understanding.
+Clean code is readable.
+DRY principle: Don't Repeat Yourself.
+KISS principle: Keep It Simple, Stupid.
+SOLID principles for OOP.
+Design patterns solve common problems.
+Algorithms and Data Structures are fundamental.
+Time complexity matters.
+Space complexity also matters.
+Big O notation.
+Sorting algorithms.
+Search algorithms.
+Graph theory.
+Dynamic programming.
+Greedy algorithms.
+Divide and conquer.
+Trees and heaps.
+Hash tables.
+Stack and Queue.
+Linked Lists.
+Arrays and Strings.
+Bit manipulation.
+Recursion.
+Validation set.
+Test set.
+Confusion matrix.
+Precision and Recall.
+F1 score.
+Accuracy.
+ROC curve.
+AUC score.
+Bias and Variance tradeoff.
+Ensemble methods.
+Random Forest.
+Gradient Boosting.
+XGBoost is fast.
+LightGBM is efficient.
+CatBoost handles categorical data.
+Clustering algorithms.
+K-Means.
+DBSCAN.
+Hierarchical clustering.
+PCA for dimensionality reduction.
+t-SNE for visualization.
+Autoencoders.
+GANs generate data.
+Reinforcement Learning.
+Agents and Environments.
+Rewards and Penalties.
+Q-Learning.
+Deep Q-Networks.
+Policy Gradients.
+AlphaGo.
+Self-driving cars.
+Robotics.
+Computer Vision.
+Image Classification.
+Object Detection.
+Segmentation.
+CNNs work well for images.
+Convolution layers.
+Pooling layers.
+Transfer Learning.
+Fine-tuning models.
+Pre-trained models.
+Hugging Face Transformers.
+BERT understands context.
+GPT generates text.
+T5 translates text.
+Encoder-Decoder architecture.
+Attention mechanism.
+Self-Attention.
+Multi-Head Attention.
+Positional Encoding.
+Layer Normalization.
+Residual connections.
+Feed-forward networks.
+Tokenization techniques.
+Word-level.
+Character-level.
+Subword-level.
+Byte-Pair Encoding (BPE).
+WordPiece.
+Unigram Language Model.
+Stop words removal.
+Stemming and Lemmatization.
+Vectorization.
+TF-IDF.
+Word2Vec.
+GloVe.
+FastText.
+Cosine similarity.
+Euclidean distance.
+Manhattan distance.
+Jaccard similarity.
+This should be enough data now for 100 vocab size.
+End of file.

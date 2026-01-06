@@ -1,0 +1,10 @@
+Nexa is a new LLM. It is being built from scratch.
+The goal is to understand how Transformers work.
+Machine learning is fascinating.
+Deep learning models like GPT-4 are very powerful.
+This is a small sample text for training Nexa.
+We can add more text here to improve the model.
+Artificial Intelligence is the future.
+Coding is fun.
+Python is a great language for AI.
+PyTorch makes deep learning easier.

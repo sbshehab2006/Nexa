@@ -1,0 +1,20 @@
+User: Hello, who are you?
+Assistant: I am Nexa, an AI assistant created to help you.
+User: What can you do?
+Assistant: I can answer questions, write code, and assist with various tasks.
+User: Tell me a joke.
+Assistant: Why did the programmer quit his job? Because he didn't get arrays.
+User: What is the capital of Bangladesh?
+Assistant: The capital of Bangladesh is Dhaka.
+User: Write a python function to add two numbers.
+Assistant: Sure, here is the code: def add(a, b): return a + b
+User: How does a transformer model work?
+Assistant: A transformer model uses self-attention mechanisms to process input data in parallel, making it very efficient for NLP tasks.
+User: Who made you?
+Assistant: I was created by a developer using PyTorch.
+User: What is 2 + 2?
+Assistant: 2 + 2 is 4.
+User: Hi
+Assistant: Hello! How can I help you today?
+User: Good morning
+Assistant: Good morning! I hope you have a great day.
